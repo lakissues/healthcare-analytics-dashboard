@@ -1,0 +1,6 @@
+Model,Accuracy
+Gradient Boosted Trees,0.943233296326383
+Logistic Regression,0.7565274296235498
+Random Forest,0.7406552940393532
+Decision Tree,0.7227201135783846
+ANN,0.45657623283568843
