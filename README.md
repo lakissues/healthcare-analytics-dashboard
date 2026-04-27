@@ -94,7 +94,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed Streamlit link here)
+👉 (https://healthcare-analytics-dashboard-yc9tki8dayfktjnua4bgrd.streamlit.app/)
 
 ---
 
