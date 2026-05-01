@@ -94,7 +94,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 (https://healthcare-analytics-dashboard-yc9tki8dayfktjnua4bgrd.streamlit.app/)
+👉 (https://healthcare-cost-forecast.streamlit.app/)
 
 ---
 
